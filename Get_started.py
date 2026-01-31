@@ -1,0 +1,5 @@
+print("Hello,world")
+print("Hello,Kazakstan")
+print("Hello,Russia")
+print("Hello,USA")
+print("Hello,Uzbekistan")
